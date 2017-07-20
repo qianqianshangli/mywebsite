@@ -1,0 +1,69 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="web.com" resolutions="1x" timestamp="1500543820411">
+  <folder name="css">
+    <file name="site_global.css" crc="167805900"/>
+    <file name="master_a-master.css" crc="229212492" ref="xiangqing:pailie:fenlei:index"/>
+    <file name="xiangqing.css" crc="523656035" ref="xiangqing"/>
+    <file name="pailie.css" crc="3945403644" ref="pailie"/>
+    <file name="fenlei.css" crc="265019532" ref="fenlei"/>
+    <file name="index.css" crc="135603385" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:fenlei:pailie:xiangqing"/>
+    <file name="museutils.js" crc="4216313831" ref="index:fenlei:pailie:xiangqing"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fenlei:pailie:xiangqing"/>
+    <file name="museconfig.js" crc="474374037" ref="index:fenlei:pailie:xiangqing"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:fenlei:pailie:xiangqing"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:fenlei:pailie"/>
+    <file name="webpro.js" crc="4143865194" ref="index:fenlei:pailie"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:fenlei:pailie"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:fenlei:pailie"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:fenlei:pailie"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:fenlei:pailie:xiangqing"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index:pailie"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:fenlei:pailie:xiangqing"/>
+    <file name="require.js" crc="3951022091" ref="index:fenlei:pailie:xiangqing"/>
+  </folder>
+  <folder name="images">
+    <file name="53cc8f1f41b6c.jpg" crc="406459854" ref="index:fenlei">
+      <caption webpage="index" alt=""/>
+      <caption webpage="fenlei" alt=""/>
+    </file>
+    <file name="56844b771297c-u1794-fr.jpg" crc="264968548" ref="index"/>
+    <file name="56844b4921c4c-u1788-fr.jpg" crc="377739600" ref="index"/>
+    <file name="56844b771297c.jpg" crc="3810858976" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="56844b4921c4c-u159-fr.jpg" crc="3910051513" ref="index"/>
+    <file name="56844b4921c4c.jpg" crc="291812620" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="53911dd2709e3.jpg" crc="3824664677" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="da017095f.jpg" crc="3891747070" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="53cc8f1f41b6c2.jpg" crc="4167544972" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="56844b4921c4c-u1588-fr.jpg" crc="4267779036" ref="fenlei"/>
+    <file name="56844b771297c-u1591-fr.jpg" crc="286151200" ref="fenlei"/>
+    <file name="56844b4921c4c-u1540-fr.jpg" crc="196926289" ref="fenlei"/>
+    <file name="56844b771297c-u1548-fr.jpg" crc="3876865284" ref="fenlei"/>
+    <file name="56844b771297c-u616-fr.jpg" crc="4004315693" ref="pailie"/>
+    <file name="56844b4921c4c-u608-fr.jpg" crc="3979045449" ref="pailie"/>
+    <file name="53cc8f1f41b6c-u612-fr.jpg" crc="360668596" ref="pailie"/>
+    <file name="56844b4921c4c2.jpg" crc="4182290907" ref="pailie">
+      <caption webpage="pailie" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3925817242" seo="true" mt="1500470904129" redirect="true"/>
+  <file name="fenlei.html" crc="181054477" seo="true" mt="1500467784766" redirect="true"/>
+  <file name="pailie.html" crc="70903871" seo="true" mt="1500467784764" redirect="true"/>
+  <file name="xiangqing.html" crc="4271317018" seo="true" mt="1500431992245" redirect="true"/>
+</manifest>
